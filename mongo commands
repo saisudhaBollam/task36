@@ -1,0 +1,24 @@
+//Database design for zenclass programme
+
+[{
+    "name": "Zenclass Program",
+    "program": "MERN Stack",
+    "mentors": [{
+        "name": "Sai Mohan",
+        "module": "HTML,CSS & Javascript",
+        "mentee_count": 100
+    },
+    {
+        "name": "Anand S",
+        "module": "Data Structures & Algorithms",
+        "mentee_count": 70,
+    },
+    {
+        "name": "Raghav Kumar V",
+        "module": "ReactJS & Databases",
+        "mentee_count": 30,
+    }],
+    "users": {
+        "name": "Rajendran",
+    }
+}];
